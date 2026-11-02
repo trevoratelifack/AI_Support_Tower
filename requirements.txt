@@ -1,0 +1,11 @@
+crewai
+fastapi[standard]
+uvicorn[standard]
+pydantic
+pydantic-settings
+pytest
+httpx
+python-dotenv
+requests
+pytz
+openai
